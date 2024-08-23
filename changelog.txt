@@ -1,0 +1,4 @@
+*** WooCommerce Buddypress Integrator ***
+
+2024-07-01 - version 1.0.0
+* Initial Release
